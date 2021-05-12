@@ -7,6 +7,9 @@
 
 ## | 신우진 | 24살 | 경기도 안산 |
 
+
+
+
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA0MTJfOTEg%2FMDAxNDkxOTcxNTI1NDQ5.xCzvtUMxMnlr1XEYioYRqC7RQEmfJFue-dFIVj6M5sMg.FgnqfXHYhvK-gG4wKcv8PEFfz0PcvvHPxexY_s50CmQg.PNG.scription34%2F20170412_115929.png&type=a340"
 width="100px">
 <img src="https://search.pstatic.net/sunny/?src=https%3A%2F%2Fi.pinimg.com%2F736x%2Fec%2F78%2F20%2Fec78200aac6ac9b0ff9ea0cc186f6766--golden-retriever-puppies-retriever-dog.jpg&type=a340"
