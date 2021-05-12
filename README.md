@@ -1,18 +1,18 @@
 # tlsdnwls97.github.io
 
-## 나의 이름 신우진 안산불주먹
-
-
-<h3>나의 캐릭커쳐를 소개하지</h3>
+## My name is Woojin Shin and my website address is tlsdnwls97.github.io
 <br>
+
+
+<h3>Let me introduce you to my character.</h3>
+<br><br>
 <img src="KakaoTalk_20210512_230229605.jpg"
 width="300px" >
 
-<br><br>
-
-  - [test 바로가기 상대경로](NewPage.md)
-  - [test 바로가기 절대경로](./NewPage.md)
 
 <br><br><br>
 
-Today May. 12. 2021
+## Today is May 12, 2021.
+
+  - [test 바로가기 상대경로](NewPage.md)
+  - [test 바로가기 절대경로](./NewPage.md)
