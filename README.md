@@ -8,7 +8,6 @@
 ## | 신우진 | 24살 | 경기도 안산 |
 
 <br>
-<br>
 
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA0MTJfOTEg%2FMDAxNDkxOTcxNTI1NDQ5.xCzvtUMxMnlr1XEYioYRqC7RQEmfJFue-dFIVj6M5sMg.FgnqfXHYhvK-gG4wKcv8PEFfz0PcvvHPxexY_s50CmQg.PNG.scription34%2F20170412_115929.png&type=a340"
 width="100px">
