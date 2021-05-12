@@ -10,8 +10,8 @@ width="300px" >
 
 <br><br>
 
-  - [test 바로가기 상대경로](subesite.md)
-  - [test 바로가기 절대경로](./subesite.md)
+  - [test 바로가기 상대경로](NewPage.md)
+  - [test 바로가기 절대경로](./NewPage.md)
 
 <br><br><br>
 
