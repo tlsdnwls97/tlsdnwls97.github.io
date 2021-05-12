@@ -18,7 +18,7 @@ width="300px" >
 ## Today is May 12, 2021.
 <br>
 
-  [test 바로가기 상대경로](NewPage.md)
+  [test 바로가기 상대경로] (NewPage.md)
   <br>
-  [test 바로가기 절대경로](./NewPage.md)
+  [test 바로가기 절대경로] (./NewPage.md)
 </div>
